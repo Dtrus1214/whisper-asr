@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CrystalAsr</string>
+    <string name="listen">Listen</string>
+    <string name="stop">Stop</string>
+    <string name="simulate">Simulate</string>
+    <string name="transcript_hint">Transcript appears here after each voiced segment…</string>
+    <string name="mic_permission_rationale">Microphone access is required for streaming ASR.</string>
+    <string name="asr_model_load_failed">Could not load ASR model file. Replace the file at the app files directory with your real model.</string>
+    <string name="wav_simulation_failed">Could not run WAV simulation. Ensure assets/1.wav is PCM16 mono 16kHz.</string>
+</resources>
